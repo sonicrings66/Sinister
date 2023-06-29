@@ -22,7 +22,7 @@
     "fs": "^0.0.1-security",
     "glob": "^7.1.7",
     "https": "^1.0.0",
-    "mongoose": "^6.4.6",
+    "mongoose": "^6.11.1",
     "ms": "^3.0.0-canary.1",
     "node-fetch": "^3.2.10",
     "nodemon": "^2.0.17",
