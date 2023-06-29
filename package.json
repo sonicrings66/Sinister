@@ -15,7 +15,7 @@
     "bufferutil": "^4.0.3",
     "chalk": "^4.1.2",
     "cli-color": "^2.0.1",
-    "discord-api-types": "^0.20.2",
+    "discord-api-types": "^0.37.43",
     "discord-logs": "^2.0.1",
     "discord-prefix": "^3.0.0",
     "discord.js": "^13.1.0",
