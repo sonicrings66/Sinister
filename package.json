@@ -18,7 +18,7 @@
     "discord-api-types": "^0.20.2",
     "discord-logs": "^2.0.1",
     "discord-prefix": "^3.0.0",
-    "discord.js": "^13.1.0",
+    "discord.js": "^13.16.0",
     "fs": "^0.0.1-security",
     "glob": "^7.1.7",
     "https": "^1.0.0",
